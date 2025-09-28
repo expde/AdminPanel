@@ -278,10 +278,11 @@ This project is **proprietary software**. All rights reserved.
 
 ### 🌟 **Star this repository if you find it helpful!**
 
-[![GitHub stars](https://img.shields.io/github/stars/username/expde-shop-admin.svg?style=social&label=Star)](https://github.com/username/expde-shop-admin)
+[![GitHub stars](https://img.shields.io/github/stars/username/expde-shop-admin.svg?style=social&label=Star)]([https://github.com/username/expde-shop-admin](https://github.com/expde/AdminPanel/stargazers))
 [![GitHub forks](https://img.shields.io/github/forks/expde/AdminPanel.svg?style=social&label=Fork)](https://github.com/expde/AdminPanel/fork)
 
 **Made with ❤️ for the e-commerce community**
 
 </div>
+
 
